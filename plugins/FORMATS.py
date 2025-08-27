@@ -39,7 +39,7 @@ HELP_TEXT = """<b>⁉️ Hᴇʏ...!! {mention} ~
 <b><i>◈ Sᴛɪʟʟ ʜᴀᴠᴇ ᴅᴏᴜʙᴛs, ᴄᴏɴᴛᴀᴄᴛ ʙᴇʟᴏᴡ ᴘᴇʀsᴏɴs/ɢʀᴏᴜᴘ ᴀs ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅ !</i></b>"""
 
 ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {botname}
-<blockquote><b>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/DoraShin_hlo>➳≛⃝ Gojo</a>\n» ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Fury>𝐀ɴɪᴍᴇ 𝐅ᴜʀʏ</a>\n» ᴏɴɢᴏɪɴɢ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Ongoing_Anime_Fury>𝐎ɴɢᴏɪɴɢ 𝐀ɴɪᴍᴇ 𝐅ᴜʀʏ</a>\n» sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ : <a href=https://t.me/HellFire_Academy_Chat>𝐀ɴɪᴍᴇ 𝐅ᴜʀʏ 𝐆ᴄ</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/DoraShin_hlo>➳≛⃝Gojo</a></blockquote></b>"""
+<blockquote><b>» ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/DoraShin_hlo>➳≛⃝ Gojo</a>\n» ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Anime_Fury>𝐀ɴɪᴍᴇ 𝐅ᴜʀʏ</a>\n» ᴏɴɢᴏɪɴɢ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/Ongoing_Anime_Fury>𝐎ɴɢᴏɪɴɢ 𝐀ɴɪᴍᴇ 𝐅ᴜʀʏ</a>\n» sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ : <a href=https://t.me/Anime_Fury_Chat>𝐀ɴɪᴍᴇ 𝐅ᴜʀʏ 𝐆ᴄ</a>\n» ᴏᴡɴᴇʀ : <a href=https://t.me/DoraShin_hlo>➳≛⃝Gojo</a></blockquote></b>"""
 
 SETTING_TXT = """<b>»  Cᴏɴғɪɢᴜʀᴀᴛɪᴏɴs</b>
 <blockquote expandable>» ᴛᴏᴛᴀʟ ғᴏʀᴄᴇ sᴜʙ ᴄʜᴀɴɴᴇʟ:  <b>{total_fsub}</b>
