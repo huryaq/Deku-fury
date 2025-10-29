@@ -7,29 +7,29 @@ from logging.handlers import RotatingFileHandler
 
 
 #Bot token @Botfather, --⚠️ REQUIRED--
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "BOT_TOKEN")
 
 #Your API ID from my.telegram.org, --⚠️ REQUIRED--
-APP_ID = int(os.environ.get("APP_ID", "22910136"))
+APP_ID = int(os.environ.get("APP_ID", "API_ID"))
 
 #Your API Hash from my.telegram.org, --⚠️ REQUIRED--
-API_HASH = os.environ.get("API_HASH", "8e039e0c532067d3b3cee2721dcb76d2")
+API_HASH = os.environ.get("API_HASH", "API_HASH")
 
 #Your db channel Id --⚠️ REQUIRED--
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002741637113"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-100xxxx"))
 
 #OWNER ID --⚠️ REQUIRED--
-OWNER_ID = int(os.environ.get("OWNER_ID", "1683225887"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "OWNER"))
 
 #SUPPORT_GROUP: This is used for normal users for getting help if they don't understand how to use the bot --⚠ OPTIONAL--
-SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "-1002738802582")
+SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "-100xxxx")
 
 #Port
 PORT = os.environ.get("PORT", "5001")
 
 #Database --⚠️ REQUIRED--
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://sn117020:g3tULq1KLqxgzfgd@cluster0.ju3tzdx.mongodb.net/?retryWrites=true&w=majority&appName=DekuFuryBot")
-DB_NAME = os.environ.get("DATABASE_NAME", "Deku_Fury_Bot")
+DB_URI = os.environ.get("DATABASE_URL", "MONGO_DB_URL")
+DB_NAME = os.environ.get("DATABASE_NAME", "MONGO_DB_NAME")
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
